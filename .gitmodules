@@ -1,0 +1,3 @@
+[submodule "Turntable-API"]
+	path = Turntable-API
+	url = https://github.com/alaingilbert/Turntable-API.git
